@@ -1,0 +1,1 @@
+.drum-pad{border:1px solid black;width:100px;height:100px;display:flex;justify-content:center;align-items:center}#container{display:flex;flex-wrap:wrap;justify-content:center}#drum-machine{justify-content:center}#drum-pads{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr)}
